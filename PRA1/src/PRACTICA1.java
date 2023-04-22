@@ -5,6 +5,8 @@ public class PRACTICA1 {
 		// TODO Auto-generated method stub
 
 		System.out.println("Maria del Carmen Balam Batun");
+		// HOLA ESTA ES UNA PRUEBA 
+		System.out.println("HOLA ESTA ES UNA PRUEBA ");
 	}
 
 }
